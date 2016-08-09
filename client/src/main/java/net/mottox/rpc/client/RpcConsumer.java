@@ -8,7 +8,7 @@ import net.mottox.rpc.client.service.ArithmeticService;
 import net.mottox.rpc.framework.RpcFramework;
 
 /**
- * @author wangweixin01
+ * @author Weixin(Robin) Wang
  *         Created on 16/8/9.
  */
 public class RpcConsumer {
