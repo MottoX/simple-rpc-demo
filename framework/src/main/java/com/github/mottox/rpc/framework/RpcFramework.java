@@ -1,4 +1,4 @@
-package net.mottox.rpc.framework;
+package com.github.mottox.rpc.framework;
 
 import java.io.IOException;
 import java.io.ObjectInputStream;

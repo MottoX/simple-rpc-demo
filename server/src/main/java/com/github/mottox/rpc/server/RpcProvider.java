@@ -1,10 +1,10 @@
-package net.mottox.rpc.server;
+package com.github.mottox.rpc.server;
 
 import java.io.IOException;
 
-import net.mottox.rpc.framework.RpcFramework;
-import net.mottox.rpc.server.service.ArithmeticService;
-import net.mottox.rpc.server.service.impl.ArithmeticServiceImpl;
+import com.github.mottox.rpc.framework.RpcFramework;
+import com.github.mottox.rpc.server.service.ArithmeticService;
+import com.github.mottox.rpc.server.service.impl.ArithmeticServiceImpl;
 
 /**
  * @author Weixin(Robin) Wang

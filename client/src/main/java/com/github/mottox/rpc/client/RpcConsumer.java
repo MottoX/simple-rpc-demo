@@ -1,11 +1,11 @@
-package net.mottox.rpc.client;
+package com.github.mottox.rpc.client;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Random;
 
-import net.mottox.rpc.client.service.ArithmeticService;
-import net.mottox.rpc.framework.RpcFramework;
+import com.github.mottox.rpc.client.service.ArithmeticService;
+import com.github.mottox.rpc.framework.RpcFramework;
 
 /**
  * @author Weixin(Robin) Wang

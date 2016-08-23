@@ -1,4 +1,4 @@
-package net.mottox.rpc.client.service;
+package com.github.mottox.rpc.server.service;
 
 /**
  * @author Weixin(Robin) Wang
